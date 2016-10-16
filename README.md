@@ -1,2 +1,3 @@
 # hello-world
 trial version code repository
+This is my first commit ... 
